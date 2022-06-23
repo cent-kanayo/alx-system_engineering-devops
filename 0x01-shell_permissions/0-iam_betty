@@ -1,2 +1,2 @@
-#!bin/bash
-su john
+#!/bin/bash
+$ su -u betty
