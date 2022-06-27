@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Arlt | tail -10
+ls -Ar | tail +1
