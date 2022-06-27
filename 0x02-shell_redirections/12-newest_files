@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -Ar | tail +1
+ls -Alts | tail -10
+
