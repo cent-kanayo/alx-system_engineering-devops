@@ -1,2 +1,2 @@
 #!/bin/bash
-root@Linux-world:~# grep -B 4 "games" /etc/passwd
+grep -B 4 "root" /etc/passwd
